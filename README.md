@@ -23,7 +23,7 @@ For this project, I was interestested in using environmental and country's data 
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 exploratory notebook available here to showcase work related to the above environment questions. 
+There are 1 exploratory notebook available here to showcase work related to the above environmental questions. 
 
 ## Results<a name="results"></a>
 

@@ -1,5 +1,5 @@
 # CO2Emissions
-***
+
 ## Table of Contents
 
 1. [Installation](#installation)
